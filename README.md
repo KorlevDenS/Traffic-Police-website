@@ -2,4 +2,4 @@
 
 Beginning of development project
 
-Test connection 1
+Test connection 2
